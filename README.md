@@ -137,6 +137,17 @@ Your task is to write a function that does just what the title suggests (so, fai
 - [x] Python
 - [ ] C++
 ---
+### **[6 kyu]** [Bouncing Balls](https://www.codewars.com/kata/5544c7a5cb454edb3c000047) 
+A child is playing with a ball on the nth floor of a tall building. The height of this floor, h, is known.
+
+He drops the ball out of the window. The ball bounces (for example), to two-thirds of its height (a bounce of 0.66).
+
+His mother looks out of a window 1.5 meters from the ground.
+
+How many times will the mother see the ball pass in front of her window (including when it's falling and bouncing?
+- [x] Python
+- [ ] C++
+---
 ### **[6 kyu]** [Simple Sentences](https://www.codewars.com/kata/5297bf69649be865e6000922/)
 Implement a function, so it will produce a sentence out of the given parts.
 Array of parts could contain:
