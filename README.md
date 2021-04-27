@@ -26,8 +26,7 @@ Write a class called User that is used to calculate the amount that a user will 
 - [x] Python
 - [ ] C++
 ---
-### **[4 kyu]** [Human readable duration format](https://www.codewars.com/kata/52742f58faf5485cae000b9a
-)
+### **[4 kyu]** [Human readable duration format](https://www.codewars.com/kata/52742f58faf5485cae000b9a)
 
 - [x] Python
 - [ ] C++
@@ -55,14 +54,12 @@ b. Note that aaa and bbb may be very large!
 - [x] Python
 - [ ] C++
 ---
-### **[5 kyu]** [Perimeter of squares in a rectangle](https://www.codewars.com/kata/559a28007caad2ac4e000083
-)
+### **[5 kyu]** [Perimeter of squares in a rectangle](https://www.codewars.com/kata/559a28007caad2ac4e000083)
 
 - [x] Python
 - [ ] C++
 ---
-### **[5 kyu]** [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688
-)
+### **[5 kyu]** [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688)
 
 - [x] Python
 - [ ] C++
@@ -102,56 +99,47 @@ If you don't find two consecutive F(m) verifying F(m) * F(m+1) = prodyou will re
 - [x] Python
 - [ ] C++
 ---
-### **[6 kyu]** [All Star Code Challenge #15](https://www.codewars.com/kata/586560a639c5ab3a260000f3
-)
+### **[6 kyu]** [All Star Code Challenge #15](https://www.codewars.com/kata/586560a639c5ab3a260000f3)
 
 - [x] Python
 - [ ] C++
 ---
-### **[6 kyu]** [Consonant value](https://www.codewars.com/kata/59c633e7dcc4053512000073
-)
+### **[6 kyu]** [Consonant value](https://www.codewars.com/kata/59c633e7dcc4053512000073)
 
 - [x] Python
 - [ ] C++
 ---
-### **[6 kyu]** [Format a string of names like 'Bart, Lisa & Maggie'.](https://www.codewars.com/kata/53368a47e38700bd8300030d
-)
+### **[6 kyu]** [Format a string of names like 'Bart, Lisa & Maggie'.](https://www.codewars.com/kata/53368a47e38700bd8300030d)
 
 - [x] Python
 - [ ] C++
 ---
-### **[6 kyu]** [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c
-)
+### **[6 kyu]** [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c)
 
 - [x] Python
 - [ ] C++
 ---
-### **[6 kyu]** [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da
-)
+### **[6 kyu]** [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
 
 - [x] Python
 - [ ] C++
 ---
-### **[6 kyu]** [String Breakers](https://www.codewars.com/kata/59d398bb86a6fdf100000031
-)
+### **[6 kyu]** [String Breakers](https://www.codewars.com/kata/59d398bb86a6fdf100000031)
 
 - [x] Python
 - [ ] C++
 ---
-### **[6 kyu]** [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00
-)
+### **[6 kyu]** [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00)
 
 - [x] Python
 - [ ] C++
 ---
-### **[6 kyu]** [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235/
-)
+### **[6 kyu]** [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235/)
 
 - [x] Python
 - [ ] C++
 ---
-### **[6 kyu]** [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362
-)
+### **[6 kyu]** [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
 
 - [x] Python
 - [ ] C++
@@ -250,20 +238,17 @@ Your task is to make a function that can take any non-negative integer as an arg
 - [x] Python
 - [ ] C++
 ---
-### **[7 kyu]** [Categorize New Member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa
-)
+### **[7 kyu]** [Categorize New Member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa)
 
 - [x] Python
 - [ ] C++
 ---
-### **[7 kyu]** [Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc
-)
+### **[7 kyu]** [Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc)
 
 - [x] Python
 - [ ] C++
 ---
-### **[7 kyu]** [Word values](https://www.codewars.com/kata/598d91785d4ce3ec4f000018
-)
+### **[7 kyu]** [Word values](https://www.codewars.com/kata/598d91785d4ce3ec4f000018)
 
 - [x] Python
 - [ ] C++
