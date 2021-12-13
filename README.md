@@ -64,6 +64,11 @@ b. Note that aaa and bbb may be very large!
 - [x] Python
 - [ ] C++
 ---
+### **[5 kyu]** [Training on Beeramid](https://www.codewars.com/kata/51e04f6b544cf3f6550000c1/train/python)
+file: [alternating_substring.py](https://github.com/andrei399/codewars-solutions/blob/main//alternating_substring.py)
+- [x] Python
+- [ ] C++
+---
 ### **[5 kyu]** [The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024)
 The marketing team is spending way too much time typing in hashtags.
 Let's help them with our own Hashtag Generator!
@@ -168,6 +173,11 @@ If we list all the natural numbers below 10 that are multiples of 3 or 5, we get
 Finish the solution so that it returns the sum of all the multiples of 3 or 5 below the number passed in.
 - [x] Python
 - [x] C++
+---
+### **[6 kyu]** [Training on Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f/train/python)
+file: [beeraimd.py](https://github.com/andrei399/codewars-solutions/blob/main//beeraimd.py)
+- [x] Python
+- [ ] C++
 ---
 ### **[6 kyu]** [Pokemon Damage Calculator](https://www.codewars.com/kata/536e9a7973130a06eb000e9f/)
 It's a Pokemon battle! Your task is to calculate the damage that a particular move would do using the following formula (not the actual one from the game):
